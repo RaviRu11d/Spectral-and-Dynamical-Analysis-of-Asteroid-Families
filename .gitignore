@@ -1,0 +1,16 @@
+# Ignore data folder
+data/
+.venv/
+plots/
+tuner_logs/
+tuner_logs_1/
+
+# Ignore ML artifacts
+*.pkl
+*.csv
+*.txt
+
+# Optional (common ML stuff)
+*.h5
+*.pt
+*.npy
